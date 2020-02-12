@@ -17,6 +17,7 @@ public class Cliente {
     }
 
     public String getCPF(){
+
         return CPF;
     }
 
