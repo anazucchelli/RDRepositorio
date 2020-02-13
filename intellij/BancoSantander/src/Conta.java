@@ -2,10 +2,12 @@
         private Cliente cliente;
         private double saldo;
 
-    //CONSTRUTOR
+    //CONSTRUTOR ps.vazio
         public Conta(Cliente cliente, double saldo) {
             this.cliente = cliente;
             this.saldo = saldo;
+        }
+        public Conta(){
         }
 
        //METODOS
@@ -23,18 +25,22 @@
             if(saldo >= quantiaDinheiro){
                 this.saldo = saldo - quantiaDinheiro;
                 System.out.println("Saque de " + quantiaDinheiro + " realizado!");
-                System.out.println("Seu saldo atual é "+saldo);
+                System.out.println("Seu saldo atual é "+ this.saldo);
             }else{
                 System.out.println("Saldo insuficiente");
             }
     }
 
-//    public void consultaSaldo(double quantiaDinheiro){
-////
-////    }
+    public void consultarSaldo(){
+        System.out.println("Saldo atual: " + this.saldo);
+    }
+
+    //outro exemplo
+//    public void consultarDado(Conta conta){
+//        System.out.println("Conta: " + conta.getCliente().getIdCliente());
+//    }
 
     //GET E SET
-
 
         public Cliente getCliente() {
             return cliente;

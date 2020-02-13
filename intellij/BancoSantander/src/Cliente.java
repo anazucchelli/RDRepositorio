@@ -4,12 +4,15 @@ public class Cliente {
     private String RG;
     private String CPF;
 
-    //CONSTRUTOR
+    //CONSTRUTOR ps: sempre colocar um vazio...
     public Cliente(int idCliente, String sobrenome, String RG, String CPF) {
         this.idCliente = idCliente;
         this.sobrenome = sobrenome;
         this.RG = RG;
         this.CPF = CPF;
+    }
+
+    public Cliente(){
     }
 
     //GET E SET
