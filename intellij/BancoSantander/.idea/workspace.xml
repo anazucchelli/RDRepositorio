@@ -2,56 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a929e7a-a54f-431c-988f-2ad91274a425" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cheque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/Impressora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Contrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Documento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Foto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Imprimivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Impressora/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/Lista.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/Apelidos/Apelidos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/Apelidos/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/LoteriaDosSonhos/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/LoteriaDosSonhos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/exe2/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/exe2/ListaVazia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/exe3/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lista/src/exe3/Prova.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/Voador.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/Aviao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/Pato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/SuperHomem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/TorreDeControle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voador/src/Voador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/Desafio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/Desafio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/Excecoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excecoes/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BancoSantander/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BancoSantander/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BancoSantander/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BancoSantander/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BancoSantander/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BancoSantander/ContaCorrente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BancoSantander/ContaPoupaca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BancoSantander/ContaPoupaca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BancoSantander/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BancoSantander/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaPoupaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaPoupaca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Conta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conta/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ExerciciosOO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lista" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunManager">
@@ -125,10 +85,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="713" y="120" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581514800307" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581606097928">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581680283272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581606097928" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581680283272" />
     <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1581540100483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,10 +125,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581509284460" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581596524292">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581680119162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581596524292" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581680119162" />
     <state x="65" y="0" key="new project wizard" timestamp="1581596589897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
